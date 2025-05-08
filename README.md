@@ -15,7 +15,7 @@ As a consultant for a fictional pharmaceutical company, I developed a dynamic an
 
 [Insights](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#insights)
 
-[Recommendation]()
+[Recommendation](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#recommendations)
 
 
 ![FORGGITH](https://github.com/user-attachments/assets/9a95c7a7-8a14-4227-9e71-b822b83aacb2)
