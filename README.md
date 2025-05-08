@@ -1,7 +1,8 @@
 # Forggith-Pharmaceuticals-Report
 As a consultant for a fictional pharmaceutical company, I developed a dynamic and interactive report tailored to specific business needs. This project was part of the deliverables required to successfully complete the Power BI Developer Internship Program organized by Foresight BI
 # Table of Content
-Introduction
+[Introduction](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#introduction)
+
 Reporting Requirements
 Data structure
 Data Cleaning & Transformation
