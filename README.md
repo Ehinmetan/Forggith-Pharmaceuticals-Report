@@ -5,7 +5,7 @@ As a consultant for a fictional pharmaceutical company, I developed a dynamic an
 
 [Reporting Requirements](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#reporting-requirements)
 
-[Data structure]()
+[Data structure](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#data-source)
 
 [Data Cleaning & Transformation]()
 
