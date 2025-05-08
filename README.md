@@ -3,7 +3,7 @@ As a consultant for a fictional pharmaceutical company, I developed a dynamic an
 # Table of Content
 [Introduction](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#introduction)
 
-Reporting Requirements
+[Reporting Requirements](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#reporting-requirements)
 Data structure
 Data Cleaning & Transformation
 Data Modelling
