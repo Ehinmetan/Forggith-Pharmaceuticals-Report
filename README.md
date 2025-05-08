@@ -11,7 +11,7 @@ As a consultant for a fictional pharmaceutical company, I developed a dynamic an
 
 [Data Modelling](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#data-modelling)
 
-[Visualization]()
+[Visualization](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#visualization)
 
 [Insights]()
 
