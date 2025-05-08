@@ -1,21 +1,21 @@
 # Forggith-Pharmaceuticals-Report
 As a consultant for a fictional pharmaceutical company, I developed a dynamic and interactive report tailored to specific business needs. This project was part of the deliverables required to successfully complete the Power BI Developer Internship Program organized by Foresight BI
 # Table of Content
-[Introduction](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#introduction)
+[Introduction]()
 
-[Reporting Requirements](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#reporting-requirements)
+[Reporting Requirements]()
 
-[Data structure](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#data-source)
+[Data structure]()
 
-[Data Cleaning & Transformation](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#data-cleaning--transformation)
+[Data Cleaning & Transformation]()
 
-[Data Modelling](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#data-modelling)
+[Data Modelling]()
 
-[Visualization](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report?tab=readme-ov-file#visualization)
+[Visualization]()
 
-[Insights](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#data-insights)
+[Insights]()
 
-[Recommendation](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report?tab=readme-ov-file#recommendations)
+[Recommendation]()
 
 
 ![FORGGITH](https://github.com/user-attachments/assets/9a95c7a7-8a14-4227-9e71-b822b83aacb2)
