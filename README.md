@@ -9,9 +9,12 @@ As a consultant for a fictional pharmaceutical company, I developed a dynamic an
 
 [Data Cleaning & Transformation](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#data-cleaning--transformation)
 
-Data Modelling
-Visualization
-Insights
+[Data Modelling](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#data-modelling)
+
+[Visualization](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#data-visualization)
+
+[Insights](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report/blob/main/README.md#data-insights)
+
 [Recommendation](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report?tab=readme-ov-file#recommendations)
 
 
