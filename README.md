@@ -1,5 +1,15 @@
 # Forggith-Pharmaceuticals-Report
 As a consultant for a fictional pharmaceutical company, I developed a dynamic and interactive report tailored to specific business needs. This project was part of the deliverables required to successfully complete the Power BI Developer Internship Program organized by Foresight BI
+# Table of Content
+Introduction
+Reporting Requirements
+Data structure
+Data Cleaning & Transformation
+Data Modelling
+Visualization
+Insights
+[Recommendation](https://github.com/Ehinmetan/Forggith-Pharmaceuticals-Report?tab=readme-ov-file#recommendations)
+
 
 ![FORGGITH](https://github.com/user-attachments/assets/9a95c7a7-8a14-4227-9e71-b822b83aacb2)
 # Introduction
@@ -30,7 +40,7 @@ Forggith Pharmaceuticals is a Pharmaceutical Manufacturing company based in Germ
 - Actual Revenue Achievement by Sales Team
 - Revenue and Volume Achievement by Product.
 
-# Data Source and Dictionary
+# Data Source 
 
 The dataset was provided by Ahmed Oyelowo as a one-month internship program on Foresight BI. The dataset consists of 8 tables which includes information on sales transactions as well as set targets for each year.
 
