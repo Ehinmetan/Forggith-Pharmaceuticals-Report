@@ -88,5 +88,35 @@ The dataset was provided by Ahmed Oyelowo as a one-month internship program on F
 
 # Insights
 
+## Sales Performance Overview
+
+- Total revenue reached €11.12bn, significantly surpassing the target of €8.45bn, highlighting the effectiveness of current sales strategies.
+
+- Year-over-year, revenue grew by 31.44%, and we saw a 2.83% increase month-over-month, momentum is steady and trending in the right direction.
+
+- Looking at revenue channels, pharmacies accounted for roughly 69% of total sales, while hospitals made up the remaining 31%. That tells us pharmacies remain a key driver, definitely worth continued investment and partnership optimization.
+
+In terms of geography, Bucharest, Budapest, and Cologne topped the revenue charts. These are clearly high-performing markets and should be prioritized for expansion, localized campaigns, or deeper customer engagement.
+
+From a product standpoint, Analgesics and Mood Stabilizers are leading the pack. That’s an opportunity to further penetrate those markets or develop strategic upsells in these categories.
+
+## Marketing Performance Analysis
+ Marketing efforts generated €2.93bn in revenue, exceeding the €2bn target and reflecting strong performance.
+
+- Sales volume reached only 50% of the €54M target, coming in at €27M. This suggests a disconnect between revenue growth and unit sales that needs to be addressed..
+
+- Team performance varied, but Delta and Charlie teams were standout contributors. Looking at team leads, Aisha Carswell clearly outperformed her peers in driving revenue, her team could be a great case study for best practices.
+
+- Product-wise, Ironbixide generated the most revenue — a strong performer we can model future product strategies around.
+
 # Recommendations
 
+- Focus on top performing cities like Bucharest and Budapest with targeted marketing and localized campaigns.
+
+- Investigate why volume is lagging behind revenue. Is it due to pricing, product bundling, or stock availability?
+
+- Share successful team strategies from managers like Aisha Carswell with other regions to boost performance.
+
+- Optimize our channel focus. Since pharmacies are outperforming, strengthening B2C strategies and partnerships could deliver even better results.
+
+  
